@@ -1,3 +1,2 @@
 # SZU-Computer-Graphics-Project
-## Run "cmake -B ."
-## to generate project file 
+## Run "cmake -B ." to generate project file 
